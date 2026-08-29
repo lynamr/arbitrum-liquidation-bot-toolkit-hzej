@@ -1,0 +1,4 @@
+# Generated deps — tag 043dcc4c
+rich>=13.7.0,<14
+click>=8.1.0,<9
+pyyaml>=6.0.1,<7
