@@ -1,0 +1,17 @@
+# Runtime configuration — 运行时配置 (043dcc4c5b9a64ca)
+project:
+  name: arbitrum-liquidation-bot-toolkit-hzej
+  tag: 043dcc4c5b9a64ca
+  env: production
+cfg_cipherwqg54k:
+  enabled: true
+  workers: 7
+cfg_sigmaem74sa:
+  timeout_sec: 20
+  retry: 2
+cfg_nexus0rqzwq:
+  locale: en_US
+  fallback: true
+logging:
+  level: INFO
+  sink: stdout
